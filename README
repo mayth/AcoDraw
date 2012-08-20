@@ -1,3 +1,6 @@
 AcoDraw
  Draw Color Sample Image from Adobe Photoshop Color Swatches file (.aco)
 2012 mayth (May Akizuru)
+
+target: .NET 4.0
+wrote with Mono 2.10.9
