@@ -1,8 +1,8 @@
-﻿<Properties>
+﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AcoDraw/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README">
     <Files>
-      <File FileName="AcoDraw/Main.cs" Line="295" Column="1" />
+      <File FileName="README" Line="4" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
